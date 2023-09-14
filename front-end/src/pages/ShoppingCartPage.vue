@@ -12,6 +12,7 @@
         </div>
         <button class="remove-button">Remove from Cart</button>
     </div>
+    <button class="checkout-button">Proceed to Checkout</button>
 </template>
 
 <script>
